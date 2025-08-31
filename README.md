@@ -10,7 +10,8 @@ Despues instala los requerimientos:
     ./venv/bin/pip install -r requirements.txt  
 
 
-Y ya puedes usar la aplicación para buscar precios de artículos. Puedes excluir términos con "-palabra":
+Y ya puedes usar la aplicación para buscar precios de artículos. Puedes excluir términos con "-palabra".
+Nota: Abrirá un navegador chrome y lo minimizará automáticamente, espera unos segundos y sacará el resultado en la terminal.
 
     ❯ ./venv/bin/python pccsearch.py "caja hyte h70 blanco -y60 -y40"  
     Nombre;Precio  
