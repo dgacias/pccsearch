@@ -1,0 +1,4 @@
+undetected-chromedriver>=3.5.5
+selenium>=4.9.0
+beautifulsoup4>=4.13.5
+setuptools>=80.0.0
